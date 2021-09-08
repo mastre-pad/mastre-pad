@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Изучаю github
+<!-- TODO-IST:START -->
+* [ ] Пройти курс по Git на Slurm
+* [ ] Создать свой первый проект на Github       
+<!-- TODO-IST:END -->
